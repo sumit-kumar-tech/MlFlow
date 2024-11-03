@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996942231062530479/559b5e84002e47129826c1d8fdb37549/artifacts
+end_time: 1730649487935
+entry_point_name: ''
+experiment_id: '996942231062530479'
+lifecycle_stage: active
+run_id: 559b5e84002e47129826c1d8fdb37549
+run_name: delicate-rat-352
+run_uuid: 559b5e84002e47129826c1d8fdb37549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730649485782
+status: 3
+tags: []
+user_id: sumitkumar
